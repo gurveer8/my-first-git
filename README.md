@@ -1,2 +1,2 @@
-# my-first-git
-My first project on git hub
+# My First Git Project 
+Lets start ...
